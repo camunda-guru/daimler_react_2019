@@ -1,0 +1,13 @@
+.Post
+{
+    border: 2px solid red;
+    background: #fafafa;
+    vertical-align: top;
+    padding: .6rem 1rem;
+    maxWidth: 500px;
+    borderRadius: 7px;
+    display:flex;
+    margin-bottom: 5%;
+
+
+}
